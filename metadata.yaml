@@ -1,0 +1,34 @@
+_repo: Up-the-Orinoco-and-down-the-Magdalena_45848
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45848-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Zahm, J. A. (John Augustine)
+    aliases:
+    - Mozans, H. J.
+    - Zahm, John Augustine
+    birthdate: 1851
+    deathdate: 1921
+    gutenberg_agent_id: '37317'
+    url: http://www.gutenberg.org/2009/agents/37317
+    wikipedia: http://en.wikipedia.org/wiki/John_Augustine_Zahm
+description: ''
+gutenberg_issued: '2014-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45848'
+  lccn: '10013159'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Colombia -- Description and travel'
+- !lcsh 'Orinoco River (Venezuela and Colombia)'
+- !lcsh 'Magdalena River (Colombia)'
+- !lcc 'F2201'
+- !lcsh 'Venezuela -- Description and travel'
+title: Up the Orinoco and down the Magdalena
+url: http://www.gutenberg.org/ebooks/45848
